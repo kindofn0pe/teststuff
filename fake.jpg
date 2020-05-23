@@ -1,0 +1,2 @@
+<?php echo("KBMZ WAS HERE"); phpinfo(); ?>
+<script>alert(document.domain)</script>
